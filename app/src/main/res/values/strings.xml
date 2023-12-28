@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DemoApplicationOne</string>
+
+    <string name="web_url_link">https://www.karthikeyasolutions.com/</string>
 </resources>
